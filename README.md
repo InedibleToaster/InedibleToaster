@@ -16,7 +16,7 @@
   <div align="center">
   </div>
 <li>
- <b>Name:</b> *Insert girl name of choice*</li>
+ <b>Name:</b> Lily </li>
 <li>
 <b>Loves:</b> Low-Level programming, old movie, MilSim
 </li>
