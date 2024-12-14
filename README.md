@@ -12,7 +12,7 @@
     <div align="center">
       </div>
 <div>
-<h2 align="center"> 🦊 ~ About me ~ 🦊 </h2>
+<h2 align="center">  ~ About me ~  </h2>
   <div align="center">
   </div>
 <li>
